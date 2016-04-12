@@ -1,0 +1,28 @@
+name: cementdesign
+favicon: null
+layout_spectrum: 0.16334993485361338
+typography_spectrum: 0.2643955748062581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9792989881243557
+  lightness: 0.7403674339875579
+  saturation: 0.8961266644764692
+  rhythmicContrast: 0.21417560521513224
+purpose: []
