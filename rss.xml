@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cementdesign]]></title>
+        <description><![CDATA[cementdesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 16:27:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cement Design Magyarország]]></title>
+            <description><![CDATA[<article><h1>Cement Design Magyarország</h1><h2>Cement Design egy különleges burkolat</h2><p>Bútorokra:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60883fc5c8ca862e075b1519b6832c48abdb1575.jpg"></article>]]></description>
+            <link>undefinedcement-design-magyarorszag/index.html</link>
+            <guid isPermaLink="false">e687d9e0-5469-4876-8a28-6fb60a417cfa</guid>
+            <pubDate>Tue, 12 Apr 2016 16:27:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
