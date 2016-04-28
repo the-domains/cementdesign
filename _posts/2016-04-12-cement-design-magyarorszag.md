@@ -1,25 +1,27 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Bútorokra:'
-datePublished: '2016-04-12T16:27:15.962Z'
-dateModified: '2016-04-12T16:25:24.037Z'
+description: ''
+datePublished: '2016-04-28T21:11:23.853Z'
+dateModified: '2016-04-28T21:10:57.930Z'
 title: Cement Design Magyarország
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-12-cement-design-magyarorszag.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-cement-design-magyarorszag.md
-published: true
+starred: false
 url: cement-design-magyarorszag/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Cement Design Magyarország
