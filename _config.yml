@@ -1,6 +1,6 @@
 name: Cement Design Magyarország
 favicon: null
-layout_spectrum: 0.25145
+layout_spectrum: 0.3032
 typography_spectrum: 0.17759
 title: null
 cta:
@@ -22,7 +22,7 @@ color:
     - '#333230'
     - '#bb2a00'
     - '#c01c00'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.8961266644764692
   rhythmicContrast: 0.21417560521513224
