@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T07:49:58.816Z'
-dateModified: '2016-04-28T21:48:10.450Z'
+datePublished: '2016-04-30T14:06:15.434Z'
+dateModified: '2016-04-30T07:50:05.858Z'
 title: Hol alkalmazható a Cement Design?
 author:
   - name: ''
@@ -26,7 +26,7 @@ _type: Blurb
 ---
 ## Hol alkalmazható a Cement Design?
 
-## Bútorokra:
+**Bútorokra**:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c56ac0-cfa7-4c84-8d98-338339318c91.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/025caa02-5ca5-4eda-b6e7-a82037ad8b43.jpg)
 
