@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Cement Design '
-datePublished: '2016-04-30T07:33:27.305Z'
-dateModified: '2016-04-30T07:32:22.237Z'
+description: ' Cement Design '
+datePublished: '2016-05-02T19:19:03.859Z'
+dateModified: '2016-05-02T19:18:34.932Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-cement-design.md
