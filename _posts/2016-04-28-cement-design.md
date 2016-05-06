@@ -5,12 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Cement Design '
-datePublished: '2016-05-02T19:19:03.859Z'
-dateModified: '2016-05-02T19:18:34.932Z'
+datePublished: '2016-05-06T08:06:10.444Z'
+dateModified: '2016-05-02T19:29:37.256Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-cement-design.md
-published: true
 authors: []
 publisher:
   name: null
@@ -58,7 +57,7 @@ Ezeket és a lehetőségeket előzetesen egyeztetjük a megrendelővel, a mintá
 
 Mi különbség a látszóbetonés a Cement Design között? A látszóbeton vastagsága 5-7 cm, míg a Cement design 2-3 mm. Ennek megfelelően a látszóbeton. a tömege miatt, alap- vetően változtatja meg az épület statikai tulajdonságait. Annak alkalmazását már a legtöbbször az épületek tervezése során el kell dönteni. A Cement Design bármilyen meglévő alapot látszóbeton szerű felületté alakít, viszont nem változtatjuk meg az épület statikai tulajdonságait, és nincs szükség dilatációs hézagokra. Egységes fuga nélküli felületek alakíthatók ki. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0db9721a-1a36-4301-b561-cdb8073c00f9.png)
 
-Szükség van a Cement Design felület karbantartására? Nagyon fontos a megfelelő karbantartás. A lakkozott faburkola- tokhoz hasonlóan kell eljárni, havonta legalább egy alkalommal méhviasz tartalmú ápolószert kell használnunk. Nehéz éles tárgyak megsérthetik a felületet. A felület igénybevétel szerint megfelelően szükséges időközönként újralakkozható. 
+Szükség van a Cement Design felület karbantartására? Nagyon fontos a megfelelő karbantartás. A lakkozott faburkolatokhoz hasonlóan kell eljárni, havonta legalább egy alkalommal méhviasz tartalmú ápolószert kell használnunk. Nehéz éles tárgyak megsérthetik a felületet. A felület igénybevétel szerint megfelelően szükséges időközönként újralakkozható. 
 
 Javítható a végső felület? Amennyiben csak a legfelső lakkréteg sérül, karcolódik, akkor a lakk csiszolása után, újralakkozással a karcolások javíthatóak. Ha a cementréteg is sérül vagy a hordozó megreped, amelyre a Cement Designt burkoltuk, akkor csak a teljes összefüggő felület újraburkolásával lehet tökéletesen javítani. Kisebb foltokban való javítás mindenképpen meglátszik. Ez a minimalista, loft szerű dizájnnál nem okoz különösebb esztétikai problémát csak homogén felületeknél van jelentősége. 
 
