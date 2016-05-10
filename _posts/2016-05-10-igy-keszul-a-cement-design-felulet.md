@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A folyamat:'
-datePublished: '2016-05-10T19:27:59.010Z'
-dateModified: '2016-05-10T19:27:41.388Z'
+datePublished: '2016-05-10T19:30:40.391Z'
+dateModified: '2016-05-10T19:28:00.387Z'
 title: ''
 author: []
 authors: []
