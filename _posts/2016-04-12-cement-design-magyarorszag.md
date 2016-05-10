@@ -5,21 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T14:06:15.434Z'
-dateModified: '2016-04-30T07:50:05.858Z'
+datePublished: '2016-05-10T12:33:47.580Z'
+dateModified: '2016-05-10T12:33:39.813Z'
 title: Hol alkalmazható a Cement Design?
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-12-cement-design-magyarorszag.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: cement-design-magyarorszag/index.html
 _type: Blurb
 
