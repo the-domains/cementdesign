@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ' Cement Design '
-datePublished: '2016-05-10T11:58:49.411Z'
-dateModified: '2016-05-10T11:58:35.895Z'
+datePublished: '2016-05-10T13:00:01.191Z'
+dateModified: '2016-05-10T12:59:50.120Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-cement-design.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: cement-design/index.html
 _type: Article
 
