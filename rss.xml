@@ -4,8 +4,15 @@
         <description><![CDATA[Cement Design Magyarország]]></description>
         <link>http://www.cementdesign.hu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 19:33:15 GMT</lastBuildDate>
         <atom:link href="http://www.cementdesign.hu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mit érdemes tudni a Cement Design-ról?]]></title>
+            <description><![CDATA[<p> Cement Design </p>]]></description>
+            <link>http://www.cementdesign.hu/cement-design/index.html</link>
+            <guid isPermaLink="false">fbaeaf3a-703f-4d65-a87e-cc13846328dd</guid>
+            <pubDate>Tue, 10 May 2016 19:33:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Budapesti Air BnB lakás]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f7a26554bdf7720e624697c90c5c98521485944.jpg" alt="" title="">]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.cementdesign.hu/igy-keszul-a-cement-design-felulet/index.html</link>
             <guid isPermaLink="false">6edf5869-1fb3-441c-a535-b7375b45fa6f</guid>
             <pubDate>Tue, 10 May 2016 19:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mit érdemes tudni a Cement Design-ról?]]></title>
-            <description><![CDATA[<p> Cement Design </p>]]></description>
-            <link>http://www.cementdesign.hu/cement-design/index.html</link>
-            <guid isPermaLink="false">fbaeaf3a-703f-4d65-a87e-cc13846328dd</guid>
-            <pubDate>Tue, 10 May 2016 13:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
