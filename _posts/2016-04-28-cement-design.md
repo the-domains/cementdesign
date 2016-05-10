@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ' Cement Design '
-datePublished: '2016-05-10T11:57:36.960Z'
-dateModified: '2016-05-10T11:56:39.174Z'
+datePublished: '2016-05-10T11:58:25.345Z'
+dateModified: '2016-05-10T11:57:45.124Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-cement-design.md
@@ -18,7 +18,7 @@ publisher:
   favicon: null
 starred: true
 url: cement-design/index.html
-_type: WebPage
+_type: Article
 
 ---
 Cement Design 
