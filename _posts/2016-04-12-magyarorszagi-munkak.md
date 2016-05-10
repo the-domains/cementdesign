@@ -4,13 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Balatoni nyaraló: 2015 '
-datePublished: '2016-04-30T07:51:54.544Z'
-dateModified: '2016-04-30T07:51:40.894Z'
+description: A 2015-ben felújított balatoni nyaraló egyik dizájneleme csak a Cement Design. Az igazi értéke a fantasztikus kilátás.
+datePublished: '2016-05-10T12:34:07.211Z'
+dateModified: '2016-05-10T12:24:34.575Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-magyarorszagi-munkak.md
-published: true
 authors: []
 publisher:
   name: null
@@ -22,6 +21,25 @@ url: magyarorszagi-munkak/index.html
 _type: Article
 
 ---
-Balatoni nyaraló: 2015 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05576e9c-857a-4321-a810-3ef1beb3ab63.jpg)
+A 2015-ben felújított balatoni nyaraló egyik dizájneleme csak a Cement Design. Az igazi értéke a fantasztikus kilátás.
+
+Megőrízték az eredeti rusztikus stílust: nádtető, kő és téglaelemek. Mindezeknek hozzáillő kiegészítője lett a Cement Design burkolat ami az alábbi felületekre került:
+
+* nappali padló
+* nappali épített bútor
+* média elem
+* konyha padló
+* konyhasziget
+* fürdőszobák
+* épített mosdók
+* épített mosogató
+* kerti grillsziget
+* mennyezet
+* kandalló
+
+A mennyezet és kandalló a Cement design különleges rozsdás fém burkolatával lett elkészítve. Ez valódi vasport tartalmaz, de a lakkvédelem miatt nem pereg le a felületről. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26021e96-a72b-439e-898f-478992dc344d.jpg)
+
+  
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68a9badae070a4f1aa78c5a4066e8db27e3993ff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ad9bea7-292e-4b26-aa20-f911454bc6c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f72220-5678-491b-8450-7f47b0248c5c.jpg)
