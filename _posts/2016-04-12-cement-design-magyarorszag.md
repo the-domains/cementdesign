@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T12:37:34.072Z'
-dateModified: '2016-05-10T12:37:29.887Z'
+datePublished: '2016-05-10T12:59:35.073Z'
+dateModified: '2016-05-10T12:37:43.614Z'
 title: Hol alkalmazható a Cement Design?
 author:
   - name: ''
