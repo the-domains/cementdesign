@@ -4,7 +4,7 @@
         <description><![CDATA[Cement Design Magyarország]]></description>
         <link>http://www.cementdesign.hu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:47:52 GMT</lastBuildDate>
         <atom:link href="http://www.cementdesign.hu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Minden infó egy helyen...itt]]></title>
@@ -33,13 +33,6 @@
             <link>http://www.cementdesign.hu/magyarorszagi-munkak/index.html</link>
             <guid isPermaLink="false">b6795182-08b7-47ec-ac65-dab08b7e495e</guid>
             <pubDate>Tue, 10 May 2016 12:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Budapesti Air BnB lakás]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8303dfeab07f6dc9f88e6ffb96171499939a8564.jpg" alt="" title="">]]></description>
-            <link>http://www.cementdesign.hu/9fb36672-c361-438a-88ca-8a952b33de12/index.html</link>
-            <guid isPermaLink="false">9fb36672-c361-438a-88ca-8a952b33de12</guid>
-            <pubDate>Tue, 10 May 2016 20:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
