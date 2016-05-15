@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
+  saturation: 0
   brandStrength: 0.5
   lightness: 0.4553191
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#bbac8b'
     - '#b57b3b'
     - '#822f11'
-  rhythmicContrast: 0.819149
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Cement Design Magyarország
+favicon: null
 opengraph:
   image: null
   type: null
