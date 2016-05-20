@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0
@@ -22,7 +22,7 @@ color:
     - '#bbac8b'
     - '#b57b3b'
     - '#822f11'
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Cement Design Magyarország
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4382979
-layout_spectrum: 0.09148936
+layout_spectrum: 0.6510639
