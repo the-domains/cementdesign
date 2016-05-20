@@ -17,11 +17,11 @@ color:
   brandStrength: 0
   lightness: 0.4553191
   brandColors:
-    - '#fcfefd'
-    - '#090611'
-    - '#bbac8b'
-    - '#b57b3b'
-    - '#822f11'
+    - '#FBFFF7'
+    - '#231C24'
+    - '#4D434E'
+    - '#ACAAD9'
+    - '#B27B5E'
   rhythmicContrast: 0
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Cement Design Magyarország
 favicon: null
+name: Cement Design Magyarország
 opengraph:
   image: null
   type: null
