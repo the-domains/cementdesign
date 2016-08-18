@@ -1,5 +1,8 @@
+name: Cement Design Magyarország
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.9638298
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.7574468
   brandColors:
     - '#FBFFF7'
     - '#231C24'
     - '#4D434E'
     - '#ACAAD9'
     - '#B27B5E'
+  brandStrength: 0
+  lightness: 0.7574468
+  saturation: 0.125
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Cement Design Magyarország
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9638298
-layout_spectrum: 0
+purpose: []
