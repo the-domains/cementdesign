@@ -4,9 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: A 2015-ben felújított balatoni nyaraló egyik dizájneleme csak a Cement Design. Az igazi értéke a fantasztikus kilátás.
-datePublished: '2016-05-10T12:40:46.678Z'
-dateModified: '2016-05-10T12:40:43.424Z'
+description: >-
+  A 2015-ben felújított balatoni nyaraló egyik dizájneleme csak a Cement Design.
+  Az igazi értéke a fantasztikus kilátás.
+datePublished: '2016-08-26T20:04:37.204Z'
+dateModified: '2016-05-10T13:13:45.238Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-magyarorszagi-munkak.md
@@ -25,19 +27,31 @@ A 2015-ben felújított balatoni nyaraló egyik dizájneleme csak a Cement Desig
 
 Megőrízték az eredeti rusztikus stílust: nádtető, kő és téglaelemek. Mindezeknek hozzáillő kiegészítője lett a Cement Design burkolat ami az alábbi felületekre került:
 
-* nappali padló
-* nappali épített bútor
-* média elem
-* konyha padló
-* konyhasziget
-* fürdőszobák
-* épített mosdók
-* épített mosogató
-* kerti grillsziget
-* mennyezet
-* kandalló
+nappali padló
+
+nappali épített bútor
+
+média elem
+
+konyha padló
+
+konyhasziget
+
+fürdőszobák
+
+épített mosdók
+
+épített mosogató
+
+kerti grillsziget
+
+mennyezet
+
+kandalló
 
 A mennyezet és kandalló a Cement design különleges rozsdás fém burkolatával lett elkészítve. Ez valódi vasport tartalmaz, de a lakkvédelem miatt nem pereg le a felületről. 
+
+Erről itt találsz képeket...
 
   
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/68a9badae070a4f1aa78c5a4066e8db27e3993ff.jpg)
