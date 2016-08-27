@@ -5,17 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A folyamat:'
-datePublished: '2016-05-10T20:17:06.483Z'
-dateModified: '2016-05-10T19:40:32.696Z'
+datePublished: '2016-08-26T20:41:01.233Z'
+dateModified: '2016-08-26T20:40:59.861Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-10-igy-keszul-a-cement-design-felulet.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
 starred: true
 url: igy-keszul-a-cement-design-felulet/index.html
 _type: Article
