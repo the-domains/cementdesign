@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T12:59:35.073Z'
-dateModified: '2016-05-10T12:37:43.614Z'
+datePublished: '2016-08-26T19:51:49.712Z'
+dateModified: '2016-08-26T19:51:45.486Z'
 title: Hol alkalmazható a Cement Design?
 author:
   - name: ''
@@ -14,10 +14,11 @@ author:
 sourcePath: _posts/2016-04-12-cement-design-magyarorszag.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
 starred: true
 url: cement-design-magyarorszag/index.html
 _type: Blurb
@@ -26,11 +27,11 @@ _type: Blurb
 ## Hol alkalmazható a Cement Design?
 
 ## Bútorokra:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c56ac0-cfa7-4c84-8d98-338339318c91.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/025caa02-5ca5-4eda-b6e7-a82037ad8b43.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/60883fc5c8ca862e075b1519b6832c48abdb1575.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fed7f2d55b63405505358e31345d5127bad92ab.jpg)
 
 ## Padlóra
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93627977-36a8-4152-8d1e-aadf9095242a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e382409b60a5be86dd8f8ff475a05303df3297.jpg)
 
 ## Falra
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39807654-200f-4ebd-b007-1d18e6bb42d2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/38f25eb0d30b836b91c547ba8821c536d17304fe.jpg)
